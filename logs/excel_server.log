@@ -1,0 +1,314 @@
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: Sheet2 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet2.cls
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: Sheet3 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet3.cls
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: Sheet4 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet4.cls
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: Sheet5 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet5.cls
+28-12-2023 23:19:58 - DEBUG:CLASS UPDATED: ThisWorkbook FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\ThisWorkbook.cls
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:19:58 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:19:58 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:19:59 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:19:59 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:19:59 - DEBUG:Import VBA Files Finish
+28-12-2023 23:21:15 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:21:15 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:21:15 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:21:15 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:21:16 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:21:16 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:21:16 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:21:16 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:21:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:21:16 - DEBUG:Import VBA Files Finish
+28-12-2023 23:21:18 - Error:Error inAutoloadModules
+28-12-2023 23:21:19 - Error:Error inAutoloadModules
+28-12-2023 23:21:20 - Error:Error inAutoloadModules
+28-12-2023 23:21:21 - Error:Error inAutoloadModules
+28-12-2023 23:21:21 - Error:Error inAutoloadModules
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:21:28 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:21:28 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:21:28 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:21:28 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:21:29 - DEBUG:Import VBA Files Finish
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:23:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:23:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:23:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:23:17 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:23:17 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:23:17 - DEBUG:Import VBA Files Finish
+28-12-2023 23:23:17 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:23:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:23:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:23:18 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:23:18 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:23:18 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:23:18 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:23:18 - DEBUG:CLASS UPDATED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:23:18 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:23:18 - DEBUG:Import VBA Files Finish
+28-12-2023 23:23:19 - Error:Error inAutoloadModules
+28-12-2023 23:23:20 - Error:Error inAutoloadModules
+28-12-2023 23:23:21 - Error:Error inAutoloadModules
+28-12-2023 23:23:21 - Error:Error inAutoloadModules
+28-12-2023 23:23:22 - Error:Error inAutoloadModules
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:23:35 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:23:35 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:23:35 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:23:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:23:35 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:25 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:25 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:25 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:25 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:25 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:25 - DEBUG:CLASS UPDATED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:25 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:25 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:31 - Error:Error inAutoloadModules
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:34 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:34 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:34 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:34 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:35 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:35 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:35 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:35 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:35 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:45 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:45 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:45 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:45 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:46 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:46 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:46 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:46 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:46 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:46 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:46 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:46 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:52 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:53 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:53 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:53 - DEBUG:Import VBA Files Finish
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:28:53 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:28:53 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:28:53 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:28:53 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:28:53 - DEBUG:Import VBA Files Finish
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:29:03 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:29:03 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:29:03 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:29:03 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:29:03 - DEBUG:Import VBA Files Finish
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:31:34 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:31:34 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:31:34 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:31:34 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_unit_test
+28-12-2023 23:31:34 - DEBUG:Import VBA Files Finish
+28-12-2023 23:31:37 - Error:Error inAutoloadModules
+28-12-2023 23:31:38 - Error:Error inAutoloadModules
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:31:43 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:31:43 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:31:43 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:31:43 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:31:43 - DEBUG:Import VBA Files Finish
+28-12-2023 23:33:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:33:16 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:33:17 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:33:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:33:17 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:33:17 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:33:17 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:33:17 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:33:17 - DEBUG:Import VBA Files Finish
+28-12-2023 23:33:19 - Error:Error inAutoloadModules
+28-12-2023 23:33:23 - Error:Error inAutoloadModules
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+28-12-2023 23:33:41 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+28-12-2023 23:33:41 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+28-12-2023 23:33:41 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+28-12-2023 23:33:41 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+28-12-2023 23:33:41 - DEBUG:Import VBA Files Finish
+28-12-2023 23:50:58 - Error:Error inAutoloadModules
+28-12-2023 23:51:01 - Error:Error inAutoloadModules
+28-12-2023 23:51:04 - Error:Error inAutoloadModules
+28-12-2023 23:54:25 - Error:Error inAutoloadModules
+28-12-2023 23:54:27 - Error:Error inAutoloadModules
+29-12-2023 11:06:38 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+29-12-2023 11:06:39 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+29-12-2023 11:06:39 - DEBUG:CLASS UPDATED: Sheet2 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet2.cls
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+29-12-2023 11:06:39 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+29-12-2023 11:06:39 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+29-12-2023 11:06:39 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+29-12-2023 11:06:39 - DEBUG:Import VBA Files Finish
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class
+29-12-2023 16:16:52 - DEBUG:CLASS UPDATED: Sheet1 FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Class\Sheet1.cls
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module
+29-12-2023 16:16:52 - DEBUG:MODULE IMPORTED: ByActiveCellReference.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\ByActiveCellReference.bas TO EXCEL
+29-12-2023 16:16:52 - DEBUG:MODULE IMPORTED: ByUserInput.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\ByUserInput.bas TO EXCEL
+29-12-2023 16:16:52 - DEBUG:MODULE IMPORTED: ByUserSelection.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\ByUserSelection.bas TO EXCEL
+29-12-2023 16:16:52 - DEBUG:MODULE IMPORTED: Module1.bas FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\vba-files\Module\Module1.bas TO EXCEL
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\excel-types\logs
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug
+29-12-2023 16:16:52 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\Xdebug.cls
+29-12-2023 16:16:52 - DEBUG:Importing VBA Files from: C:\courses\Excel VBA Course\Course 3\CopyAndTest Range\xvba_modules\Xdebug\images
+29-12-2023 16:16:52 - DEBUG:Import VBA Files Finish
